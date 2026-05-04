@@ -73,11 +73,4 @@ snippet-app/
 
 ---
 
-## Resume Highlights (What this shows)
 
-- RESTful API design with Express
-- React hooks: useState, useEffect, useCallback
-- CRUD operations end-to-end
-- Clean component architecture
-- Search & filter functionality
-- Async/await and fetch API usage
